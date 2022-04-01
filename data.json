@@ -1,0 +1,68 @@
+[
+    {
+        "title": "laptop 1",
+        "customerRating": "4",
+        "resolution": "1080p",
+        "screenType": "LED",
+        "displaySize": "47.6 inches",
+        "refreshRate": "800Hz",
+        "modelYear": "2015",
+        "SSD": "SSD1",
+        "description": "desc1"
+    },
+    {
+        "title": "laptop 2",
+        "customerRating": "4",
+        "resolution": "1080p",
+        "screenType": "LED",
+        "displaySize": "47.6 inches",
+        "refreshRate": "800Hz",
+        "modelYear": "2015",
+        "SSD": "SSD2",
+        "description": "desc2"
+    },
+    {
+        "title": "laptop 3",
+        "customerRating": "4",
+        "resolution": "1080p",
+        "screenType": "LED",
+        "displaySize": "47.6 inches",
+        "refreshRate": "800Hz",
+        "modelYear": "2015",
+        "SSD": "SSD3",
+        "description": "desc3"
+    },
+    {
+        "title": "laptop 4",
+        "customerRating": "4",
+        "resolution": "1080p",
+        "screenType": "LED",
+        "displaySize": "47.6 inches",
+        "refreshRate": "800Hz",
+        "modelYear": "2015",
+        "SSD": "SSD4",
+        "description": "desc4"
+    },
+    {
+        "title": "laptop 5",
+        "customerRating": "4",
+        "resolution": "1080p",
+        "screenType": "LED",
+        "displaySize": "47.6 inches",
+        "refreshRate": "800Hz",
+        "modelYear": "2015",
+        "SSD": "SSD5",
+        "description": "desc5"
+    },
+    {
+        "title": "laptop 6",
+        "customerRating": "4",
+        "resolution": "1080p",
+        "screenType": "LED",
+        "displaySize": "47.6 inches",
+        "refreshRate": "800Hz",
+        "modelYear": "2015",
+        "SSD": "SSD6",
+        "description": "desc6"
+    }
+]

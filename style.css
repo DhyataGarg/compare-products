@@ -1,0 +1,22 @@
+#main, 
+#compare{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.productBox{
+    height: 300px;
+    width: 200px;
+    border: 1px solid grey;
+    margin: 5px;
+    overflow: auto;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+    padding: 5px;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.productBox::-webkit-scrollbar {
+  display: none;
+}
